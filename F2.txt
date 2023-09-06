@@ -1,0 +1,5 @@
+Number 36 in base 2 -> 100100
+Number 155 in base 2 -> 10011011
+Number 64 in base 2 -> 1000000
+Number 99 in base 2 -> 1100011
+Number 358 in base 2 -> 101100110
